@@ -15,3 +15,4 @@ Usage:
 - Run the script node watchlater.js YOURFILE.txt
 - A json file containing all the videos will be generated
 
+Dependencies: cheerio
